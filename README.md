@@ -1,7 +1,7 @@
 # python-django B2C-分布式电子商城
 
 ### 项目实例地址：
-[www.treasurehouse.club/](www.treasurehouse.club/)
+   * [www.treasurehouse.club/](www.treasurehouse.club/)
 ####  后台地址
    * [www.treasurehouse.club/admin/](www.treasurehouse.club/admin/)
 ###  技术栈
