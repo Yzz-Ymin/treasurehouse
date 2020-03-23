@@ -2,10 +2,8 @@
 
 ### 项目实例地址：
 [www.treasurehouse.club/](www.treasurehouse.club/)
-####  后台体验
+####  后台地址
    * [www.treasurehouse.club/admin/](www.treasurehouse.club/admin/)
-   * 账号：`fresh`
-   * 密码: `django123`
 ###  技术栈
 * 语言：Python3.6.8  (Django>=2.1.5)
 * 数据库: MySql、 redis
