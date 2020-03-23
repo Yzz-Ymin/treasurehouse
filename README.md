@@ -1,4 +1,4 @@
-# python-django B2C-分布式电子商城
+# python-django 分布式电子商城
 
 ### 项目实例地址：
    * [www.treasurehouse.club/](www.treasurehouse.club/)
